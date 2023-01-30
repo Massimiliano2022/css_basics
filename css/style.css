@@ -1,0 +1,48 @@
+body{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
+}
+.main-section{
+    padding:20px;
+}
+#lake-como{
+    background:url(/css_basics/images/lake_como.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+#duomo-milano{
+    background:url(/css_basics/images/duomo_milano.jpeg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 700px;
+}
+h1#nome-luogo{
+    font-family: 'Prata', serif;
+    font-size:64px;
+    font-weight: 400;
+    margin-bottom:0;
+}
+h3#regione-luogo{
+    font-family: 'Prata', serif;
+    font-size:23px;
+    font-weight: 400;
+    margin-top:0;
+    margin-bottom:0;
+}
+a#special-link{
+    font-weight:600;
+    font-style: oblique;
+}
+h6{
+    padding: 22px;
+    margin-bottom: 0px;
+    margin-top: 56px;
+    background: black;
+    color: white;
+    border-radius: 6px;
+}
